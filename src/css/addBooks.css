@@ -1,0 +1,61 @@
+.container-form {
+    background-color:  #628E90;
+    display:grid;
+    justify-content: center;
+    border-radius: 6%;
+    height: 450px;
+    width: 400px;
+    margin: 20px;
+    margin-left: 450px;
+    margin-bottom: 10px;
+    text-align: center;
+    position: relative;
+    left: 42px;
+    
+  }
+  
+  input[type=text]{
+  
+    text-align: center;
+    border-radius: 10%;
+    border-style: dotted;
+    background-color: #BDF2D5;
+    color : #0f0f0f;
+    width: 300px;
+    
+  }
+  
+  .btn-outline-secondary { 
+    position: relative;
+    top: 20px;
+  
+  }
+
+  #athor{
+    position: relative;
+    bottom:60px;
+  }
+  #authorlas{
+    position: relative;
+    bottom:50px;
+  }
+  #title{
+    position: relative;
+    bottom:50px;
+  }
+  #title{
+    position: relative;
+    bottom:50px;
+  }
+  #publiserDATA{
+    position: relative;
+    bottom:66px;
+  }
+  #urlPicture{
+    position: relative;
+    bottom:50px;
+  }
+  #pages{
+    position: relative;
+    bottom:30px;
+  }
